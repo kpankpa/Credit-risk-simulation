@@ -3,6 +3,8 @@
 ## Executive Overview
 This project builds an end-to-end Machine Learning pipeline to assess retail credit risk, predict **Probability of Default (PD)**, assign behavioral credit scores (300–850), and estimate total **Expected Loss (EL)** in GHS across portfolio risk tiers.
 
+##Dataset link: https://drive.google.com/drive/folders/1dnKFeJYxUjwSVgf8HFbJR1o34vj27YXC?usp=drive_link
+
 ## Portfolio Risk Summary
 
 | Risk Tier | Risk Level | Score Range | Avg PD | Exposure (GHS) | Expected Loss (GHS) |
